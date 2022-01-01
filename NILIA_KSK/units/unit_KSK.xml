@@ -1,0 +1,65 @@
+<Units>
+	<Unit
+		name="KSK"
+		nameUI="KSK"
+		description="Kommando Spezialkräfte der Bundeswehr"
+		flagTex="data/textures/gui/squads/ksk.dds"
+		rndNameEntry="@#squadnameNiliaKSK">
+
+		<Classes>
+			<Class name="KSK_Schuetze" 	numSlots="4" iconTex="data/textures/gui/deploy/class_icon_assaulter.dds"/>
+			<Class name="KSK_MG"	numSlots="2" iconTex="data/textures/gui/deploy/class_icon_support.dds"/>
+			<Class name="KSK_Marksman"	numSlots="2" iconTex="data/textures/gui/deploy/class_icon_marksman.dds"/>
+			<Class name="KSK_Grenadier"	numSlots="2" iconTex="data/textures/gui/deploy/class_icon_grenadier.dds"/>
+		</Classes>
+						<!-- XP ANPASSEN (GESAMMT XP) -->
+		<TrooperRanks>
+			<Rank name="Soldat" xpNeeded="0" 	badgeTex="data/textures/gui/customization/KSK_rank_01.dds"/>
+			<Rank name="Gefreiter" xpNeeded="400" 	badgeTex="data/textures/gui/customization/KSK_rank_02.dds"/>
+			<Rank name="Obergefreiter" xpNeeded="800" 	badgeTex="data/textures/gui/customization/KSK_rank_03.dds"/>
+			<Rank name="Hauptgefreiter" xpNeeded="1200" 	badgeTex="data/textures/gui/customization/KSK_rank_04.dds"/>
+			<Rank name="Stabsgefreiter" xpNeeded="1600" 	badgeTex="data/textures/gui/customization/KSK_rank_05.dds"/>
+			<Rank name="Oberstabsgefreiter" xpNeeded="2000" 	badgeTex="data/textures/gui/customization/KSK_rank_06.dds"/>
+			<Rank name="Korporal" xpNeeded="2400" 	badgeTex="data/textures/gui/customization/KSK_rank_07.dds"/>
+			<Rank name="Stabskorporal" xpNeeded="2800" 	badgeTex="data/textures/gui/customization/KSK_rank_08.dds"/>
+			<Rank name="Unteroffizier" xpNeeded="3400" 	badgeTex="data/textures/gui/customization/KSK_rank_09.dds"/>
+			<Rank name="Stabsunteroffizier" xpNeeded="4000" 	badgeTex="data/textures/gui/customization/KSK_rank_10.dds"/>
+      <Rank name="Feldwebel" xpNeeded="4800" 	badgeTex="data/textures/gui/customization/KSK_rank_11.dds"/>
+      <Rank name="Oberfeldwebel" xpNeeded="5600" 	badgeTex="data/textures/gui/customization/KSK_rank_12.dds"/>
+      <Rank name="Hauptfeldwebel" xpNeeded="6400" 	badgeTex="data/textures/gui/customization/KSK_rank_13.dds"/>
+      <Rank name="Stabsfeldwebel" xpNeeded="7200" 	badgeTex="data/textures/gui/customization/KSK_rank_14.dds"/>
+      <Rank name="Oberstabsfeldwebel" xpNeeded="8000" 	badgeTex="data/textures/gui/customization/KSK_rank_15.dds"/>
+      <Rank name="Leutnant" xpNeeded="9000" 	badgeTex="data/textures/gui/customization/KSK_rank_16.dds"/>
+      <Rank name="Oberleutnant" xpNeeded="10000" 	badgeTex="data/textures/gui/customization/KSK_rank_17.dds"/>
+      <Rank name="Hauptmann" xpNeeded="12000" 	badgeTex="data/textures/gui/customization/KSK_rank_18.dds"/>
+      <Rank name="Stabshauptmann" xpNeeded="14000" 	badgeTex="data/textures/gui/customization/KSK_rank_19.dds"/>
+      <Rank name="Major" xpNeeded="17000" 	badgeTex="data/textures/gui/customization/KSK_rank_20.dds"/>
+      <Rank name="Oberstleutnant" xpNeeded="20000" 	badgeTex="data/textures/gui/customization/KSK_rank_21.dds"/>
+      <Rank name="Oberst" xpNeeded="23000" 	badgeTex="data/textures/gui/customization/KSK_rank_22.dds"/>
+      <Rank name="Brigadegeneral" xpNeeded="35000" 	badgeTex="data/textures/gui/customization/KSK_rank_23.dds"/>
+      <Rank name="Generalmajor" xpNeeded="45000" 	badgeTex="data/textures/gui/customization/KSK_rank_24.dds"/>
+      <Rank name="Generalleutnant" xpNeeded="55000" 	badgeTex="data/textures/gui/customization/KSK_rank_25.dds"/>
+      <Rank name="General" xpNeeded="65000" 	badgeTex="data/textures/gui/customization/KSK_rank_26.dds"/>
+			<Rank name="Generalinspekteur der Bundeswehr" xpNeeded="100000" 	badgeTex="data/textures/gui/customization/KSK_rank_27.dds"/>
+		</TrooperRanks>
+
+		<Ranks>
+			<Rank xpNeeded="0" 		badgeTex=""/>
+			<Rank xpNeeded="4000" 	badgeTex=""/>
+			<Rank xpNeeded="9000" 	badgeTex=""/>
+			<Rank xpNeeded="14980" 	badgeTex=""/>
+			<Rank xpNeeded="21920" 	badgeTex=""/>
+			<Rank xpNeeded="29800" 	badgeTex=""/>
+			<Rank xpNeeded="38600" 	badgeTex=""/>
+			<Rank xpNeeded="48310" 	badgeTex=""/>
+			<Rank xpNeeded="58900" 	badgeTex=""/>
+			<Rank xpNeeded="70360" 	badgeTex=""/>
+			<Rank xpNeeded="82680" 	badgeTex=""/>
+			<Rank xpNeeded="95820" 	badgeTex=""/>
+			<Rank xpNeeded="109790" badgeTex=""/>
+			<Rank xpNeeded="124550" badgeTex=""/>
+			<Rank xpNeeded="140100" badgeTex=""/>
+			<Rank xpNeeded="156420" badgeTex=""/>
+		</Ranks>
+	</Unit>
+</Units>

@@ -1,0 +1,41 @@
+#
+# IMPORTANT
+# -Do not modify/localize %s, %d, %u or any other such constructs, leave them as they are.
+# -Do not modify \n (it moves the text following it to the next line).
+# -Text IDs ending in _ttip or _tooltip can be translated using any length, for all others try to keep the same length (though it depends from text to text).
+# -Keep every @id=text on one line
+#
+
+#
+# Trooper Ranks
+#
+
+<!-- KSK Ränge -->
+
+@KSK_rank_0=Soldat
+@KSK_rank_1=Gefreiter
+@KSK_rank_2=Obergefreiter
+@KSK_rank_3=Hauptgefreiter
+@KSK_rank_4=Stabsgefreiter
+@KSK_rank_5=Oberstabsgefreiter
+@KSK_rank_6=Korporal
+@KSK_rank_7=Stabskorporal
+@KSK_rank_8=Unteroffizier
+@KSK_rank_9=Stabsunteroffizier
+@KSK_rank_10=Feldwebel
+@KSK_rank_11=Oberfeldwebel
+@KSK_rank_12=Hauptfeldwebel
+@KSK_rank_13=Stabsfeldwebel
+@KSK_rank_14=Oberstabsfeldwebel
+@KSK_rank_15=Leutnant
+@KSK_rank_16=Oberleutnant
+@KSK_rank_17=Hauptmann
+@KSK_rank_18=Stabshauptmann
+@KSK_rank_19=Major
+@KSK_rank_20=Oberstleutnant
+@KSK_rank_21=Oberst
+@KSK_rank_22=Brigadegeneral
+@KSK_rank_23=Generalmajor
+@KSK_rank_24=Generalleutnant
+@KSK_rank_25=General
+@KSK_rank_26=Generalinspekteur der Bundeswehr
