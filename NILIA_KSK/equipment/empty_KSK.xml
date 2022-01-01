@@ -1,0 +1,59 @@
+<Equipment>
+	<!-- these control where the Empty option shows up in the customization screen (for which slot/class combo) -->
+
+	<Empty name="KSK EmptyUtility" inventoryBinding="UtilityPouch" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptySecondary" inventoryBinding="SecondaryWeapon" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptyHelmetNVG" inventoryBinding="HelmetNVG" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptySupportGear" inventoryBinding="SupportGear1" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptyPrimaryMuzzle" inventoryBinding="PrimaryWeaponMuzzle" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptySecondaryMuzzle" inventoryBinding="SecondaryWeaponMuzzle" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptyHelmet" inventoryBinding="Helmet" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+
+	<Empty name="KSK EmptyArmor" inventoryBinding="Armor" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="KSK_Schuetze"/>
+		<ClassBinding name="KSK_MG"/>
+		<ClassBinding name="KSK_Marksman"/>
+		<ClassBinding name="KSK_Grenadier"/>
+	</Empty>
+</Equipment>

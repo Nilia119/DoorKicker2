@@ -1,0 +1,18 @@
+<HumanIdentities>
+	<Portrait tex="data/textures/portraits/ranger1.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger2.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger3.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger4.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger5.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger6.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger7.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger8.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger9.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger10.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger11.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger12.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger16.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger17.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger18.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/ranger19.dds" unit="KSK" gender="0" voicePack="male_very_american"/>
+</HumanIdentities>
